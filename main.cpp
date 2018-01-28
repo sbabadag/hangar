@@ -3,7 +3,7 @@
 int main ()
 {
     int i;
-    printf("1111tytytyrtyrt11a");
+    printf("Selahattin BABADAĞ sabah 3:53");
     getchar();
     return 0;
 }
