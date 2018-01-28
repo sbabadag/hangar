@@ -3,7 +3,7 @@
 int main ()
 {
     int i;
-    printf("Selocan");
+    printf("1111tytytyrtyrt11a");
     getchar();
     return 0;
 }
